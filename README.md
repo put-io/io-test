@@ -1,3 +1,3 @@
 # io-test
-Author: Michał Maćkowiak
+Author: Michał Makowiak
 27 października 2018
